@@ -1,6 +1,6 @@
 streamlit==1.24.0
 pandas
-numpy
+numpy==2.2.2
 plotly
 scipy
 openpyxl
